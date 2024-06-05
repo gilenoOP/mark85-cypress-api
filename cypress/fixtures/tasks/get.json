@@ -1,0 +1,50 @@
+{
+    "list": {
+        "user": {
+            "name": "Logan Frost",
+            "email": "loganf@outlook.com",
+            "password": "Pwd123"
+        },
+        "tasks": [
+            {
+                "name": "Fazer as compras no mercado",
+                "tags": [
+                    "alimentos",
+                    "bebidas"
+                ]
+            },
+            {
+                "name": "Ir ao cinema",
+                "tags": [
+                    "lazer",
+                    "filme",
+                    "terror"
+                ]
+            },
+            {
+                "name": "Ir ao dentista",
+                "tags": [
+                    "saúde"
+                ]
+            },
+            {
+                "name": "Agentar revisão do carro",
+                "tags": []
+            }
+        ]
+    },
+    "unique": {
+        "user": {
+            "name": "Tony Stark",
+            "email": "tonystark@hotmail.com",
+            "password": "Pwd123"
+        },
+        "task": {
+            "name": "Construir a Mark87",
+            "tags": [
+                "Ark",
+                "Nanotech"
+            ]
+        }
+    }
+}

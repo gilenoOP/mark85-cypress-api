@@ -1,0 +1,26 @@
+{
+    "remove": {
+        "user": {
+            "name": "Clark Kent",
+            "email": "clarkk@gmail.com",
+            "password": "Pwd123"
+        },
+        "task": {
+            "name": "Visitar a liga",
+            "tags": [
+                "LJ",
+                "Super"
+            ]
+        }
+    },
+    "notFoundTask": {
+        "user": {
+            "name": "Bruce Wayne",
+            "email": "brucew@outlook.com",
+            "password": "Pwd123"
+        },
+        "task": {
+            "name": "Criar design de uma nova armadura"
+        }
+    }
+}

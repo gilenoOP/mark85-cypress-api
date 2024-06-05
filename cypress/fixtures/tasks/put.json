@@ -1,0 +1,59 @@
+{
+    "taskToDo": {
+        "user": {
+            "name": "Steve Jobs",
+            "email": "stevej@next.com",
+            "password": "Pwd123"
+        },
+        "task": {
+            "name": "Construir o S.O. da Next",
+            "tags": [
+                "Tech"
+            ]
+        }
+    },
+    "taskNotFoundToDo": {
+        "user": {
+            "name": "Carlos Alberto",
+            "email": "c.alberto@hotmail.com",
+            "password": "Pwd123"
+        },
+        "task": {
+            "name": "Gravar A Praça é nossa",
+            "tags": [
+                "Humor",
+                "Televisão",
+                "SBT"
+            ]
+        }
+    },
+    "taskToUndo": {
+        "user": {
+            "name": "Steve Rogers",
+            "email": "steverogers@gmail.com",
+            "password": "Pwd123"
+        },
+        "task": {
+            "name": "Liderar Os Vingadores",
+            "tags": [
+                "Equipe",
+                "Justiça"
+            ]
+        }
+    },
+    "taskNotFoundToUndo": {
+        "user": {
+            "name": "Carlos Massa",
+            "email": "carlosmassa@gmail.com",
+            "password": "Pwd123"
+        },
+        "task": {
+            "name": "Gravar o Programa do Ratinho",
+            "tags": [
+                "Humor",
+                "Televisão",
+                "SBT"
+            ]
+        }
+    }
+}

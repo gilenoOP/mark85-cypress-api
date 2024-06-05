@@ -1,0 +1,33 @@
+{
+    "create": {
+        "user": {
+            "name": "Haru Medeiros",
+            "email": "harumds@gmail.com",
+            "password": "Pwd123"
+        },
+        "task": {
+            "name": "Estudar para o curso de desenho",
+            "tags": [
+                "photoshop",
+                "canvas",
+                "art"
+            ]
+        }
+    },
+
+    "dupTask": {
+        "user": {
+            "name": "Jean Carlos",
+            "email": "jean@hotmail.com",
+            "password": "Pwd123"
+        },
+        "task": {
+            "name": "Jogar video game",
+            "tags": [
+                "diversao",
+                "lazer",
+                "xbox one"
+            ]
+        }
+    }
+}

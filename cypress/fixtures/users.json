@@ -1,0 +1,44 @@
+{
+    "create": {
+        "name": "Gileno Oliveira",
+        "email": "gileno.op@outlook.com",
+        "password": "Pwd123"
+    },
+    "dup_email": {
+        "name": "Gohan Itibaia",
+        "email": "gohanIti@outlook.com",
+        "password": "Pwd123"
+    },
+    "required": {
+        "name": "Maria Aparecida",
+        "email": "mariaasantana@outlook.com",
+        "password": "Pwd123"
+    },
+    "login": {
+        "name": "Rick Baker",
+        "email": "rickbaker@hotmail.com",
+        "password": "Pwd123"
+    },
+    "inv_email": {
+        "create": {
+            "name":"Tony Stark",
+            "email": "tonystark@hotmail.com",
+            "password": "Pwd123"
+        },
+        "wrong_email": {
+            "email": "tony@click21.com",
+            "password": "Pwd123"
+        }
+    },
+    "inv_pass": {
+        "create": {
+            "name":"Peter Parker",
+            "email": "peterparker@hotmail.com",
+            "password": "Pwd123"
+        },
+        "wrong_pass": {
+            "email": "peterparker@hotmail.com",
+            "password": "123456"
+        }
+    }
+}
